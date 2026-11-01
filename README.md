@@ -212,10 +212,3 @@ Después cree una solicitud de cambios (pull request) contra `main`.
 
 - Camilo Prieto, identificado en el contenido de la página.
 - <!-- TODO: completar correo de contacto público y perfil de GitHub si difiere del repositorio -->
-
-## Información pendiente
-
-- Confirmar el nombre oficial del proyecto.
-- Agregar un archivo de licencia válido o definir la licencia del código.
-- Confirmar si el correo mostrado en la página puede publicarse como contacto general.
-- Confirmar el estado final de los ejercicios y desafíos.
